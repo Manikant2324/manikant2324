@@ -46,23 +46,65 @@ I once built a chess game website from scratch — and it actually beat me once 
 
 ---
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🛠️ Tech Stack
+
+### 💡 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+
+### 🗄️ Databases & ORM
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+
+
+### 🧩 State Management & Data Fetching
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge)
+
+
+### 🎨 UI / UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge)
+
+### ☁️ Cloud, DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+
+
+---
 
 ---
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manikant2324&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=manikant2324&theme=dark&hide_border=false)
+<img src="https://nirzak-streak-stats.vercel.app/?user=manikant2324&theme=dark" height="165" />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manikant2324&theme=dark&layout=compact)
 
 ---
@@ -74,12 +116,7 @@ I once built a chess game website from scratch — and it actually beat me once 
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manikant2324&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-
----
 
 [![](https://visitcount.itsvg.in/api?id=manikant2324&icon=2&color=0)](https://visitcount.itsvg.in)
 
@@ -94,4 +131,5 @@ I once built a chess game website from scratch — and it actually beat me once 
 ---
 
 ![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png)
+
 
