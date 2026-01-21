@@ -67,10 +67,7 @@ I once built a chess game website from scratch — and it actually beat me once 
 
 ---
 
-## 🎖️ Holopin Badges:
-[![Holopin](https://holopin.me/manikant2324)](https://holopin.io/@manikant2324)
 
----
 
 ## 🏆 GitHub Trophies:
 ![](https://hacked-github-stat-trophies.vercel.app/?username=manikant2324&theme=dracula&column=11)
@@ -97,3 +94,4 @@ I once built a chess game website from scratch — and it actually beat me once 
 ---
 
 ![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png)
+
